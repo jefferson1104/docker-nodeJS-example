@@ -60,6 +60,9 @@ Com o container sendo executado você pode abrir seu navegador e testar a aplica
 
 
 
+## :whale2: Estude mais sobre docker
+Para quem tiver interesse eu fiz algumas anotações no notion sobre o docker e sobre meus estudos com esta tecnologia, vale a pena dar uma olhada e também neste mesmo documento tem o link de um PDF para estudos, acesse <a href="https://www.notion.so/Exemplo-criando-uma-imagem-pessoal-1a2b919e8db54d489bf079f7966564d8"> ANOTAÇÕES DOCKER </a>
+
 
 ## :memo: Licença
 
