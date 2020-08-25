@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="docker-nodeJS-example" title="#docker-nodeJS-example" width=300 height=150 src="assets/nodeDocker.png"/>
+    <img alt="docker-nodeJS" title="#docker-nodeJS" width=300 height=150 src="assets/nodeDocker.png"/>
 </h1>
 
 <h4 align="center"> 
@@ -25,11 +25,10 @@ Para fins de estudos, criei este repositório para quem quer uma direção de co
 
 Este projeto foi desenvolvido com as seguintes Ferramentas:
 
-- **[TypeScript][typescript]**
-- **[Node.js][nodejs]**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Node.js](https://nodejs.org/en/)**
 - **[Express](https://expressjs.com/)**
 - **[Docker](https://www.docker.com/)**
-- **[VS Code][vs]**
 
 ## 🚀 Como rodar este projeto
 
@@ -56,7 +55,7 @@ sudo docker run --name node-server -p 3333:3333 usernamedockerhub/node-server
 Com o container sendo executado você pode abrir seu navegador e testar a aplicação no localhost:3333, voce ira visualizar uma resposta de uma mensagem em JSON parecida com esta como mostra na imagem abaixo:
 
 <h1 align="center">
-    <img alt="app-example" title="#app-example" width=500 height=500 src="assets/app-example.png"/>
+    <img alt="app-example" title="#app-example" width=500 height=200 src="assets/app-example.png"/>
 </h1>
 
 
@@ -64,4 +63,4 @@ Com o container sendo executado você pode abrir seu navegador e testar a aplica
 
 ## :memo: Licença
 
-Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
