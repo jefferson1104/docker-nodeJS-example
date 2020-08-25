@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	Docker Imagem personalizada com node server app 🐳
+	Criando minha imagem docker com uma aplicação em nodeJS 🐳
 </h4>
 
 <p align="center">
