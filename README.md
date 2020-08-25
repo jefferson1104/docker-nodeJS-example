@@ -48,7 +48,7 @@ $ cd docker-nodeJS-example
 $ docker build -t usernamedockerhub/node-server . 
 
 # Executando a imagem criada 
-sudo docker run --name node-server -p 3333:3333 usernamedockerhub/node-server
+$ docker run --name node-server -p 3333:3333 usernamedockerhub/node-server
 
 ```
 
